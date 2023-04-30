@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidPermission</string>
+    <string name="gallery">Gallery</string>
+    <string name="capture">Capture</string>
+    <string name="check_location">Check Location</string>
+    <string name="tutorials_point">Tutorials Point</string>
+    <string name="wifi_on">Wifi On!</string>
+    <string name="wifi_off">Wifi Off!</string>
+    <string name="show_image">show Image</string>
+</resources>
